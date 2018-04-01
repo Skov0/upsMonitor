@@ -1,4 +1,4 @@
-# skovdev ups monitor ups
+# skovdev monitor ups
 # gets and updates influxdb with current power usage and load of ups.
 import time;
 from selenium import webdriver;
