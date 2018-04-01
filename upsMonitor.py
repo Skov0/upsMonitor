@@ -10,7 +10,7 @@ import random;
 # influxdb connection
 USER = 'USERNAME'
 PASSWORD = 'PASSWD'
-DBNAME = 'upsdb'
+DBNAME = 'DB'
 
 def main():
     print("UPSMonitor v0.1 started...");
